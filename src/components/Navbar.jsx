@@ -24,7 +24,7 @@ const Language = styled.span`
  font-size: 14px;
  cursor: pointer;
  margin-left:25px;
- pdding:5px;
+ padding:5px;
 `;
 
 
