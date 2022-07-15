@@ -2,22 +2,22 @@ export const sliderItems = [
     {
       id: 1,
       img: "https://images.unsplash.com/photo-1531431057391-da7a1aabd412?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-      title: "SUMMER SALE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      title: "CEMENT SALE",
+      desc: "DON'T COMPROMISE ON QUALITY! GET FLAT 10% OFF ON EVERY PURCHASE.",
       bg: "f5fafd",
     },
     {
       id: 2,
       img: "https://images.unsplash.com/photo-1560435650-7ec2e17ba926?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-      title: "AUTUMN COLLECTION",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      title: "BEST WORK STAFF",
+      desc: "GET YOU CONSTRUCTION DONE BY THEBEST IN THE BUSINESS.",
       bg: "fcf1ed",
     },
     {
       id: 3,
       img: "https://images.unsplash.com/photo-1630816058207-b99271ccab34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
-      title: "LOUNGEWEAR LOVE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      title: "TOP CUSTOMER EXPERIENCE",
+      desc: "OUR CUSTOMERS ARE OUR PRIORITY.",
       bg: "fbf0f4",
     },
   ];
@@ -25,18 +25,18 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "SHIRT STYLE!",
+      img: "https://media.istockphoto.com/photos/cement-bags-pile-picture-id476199756?k=20&m=476199756&s=612x612&w=0&h=AHEdPIf2xyl3amOyAgG9mUwp4WRS3GgO-SzyElhDx4A=",
+      title: "CEMENT BAGS!",
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      title: "LOUNGEWEAR LOVE",
+      img: "https://images.unsplash.com/photo-1589955170741-9cd0b8827250?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      title: "BLOCKS",
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      title: "LIGHT JACKETS",
+      img: "https://sswm.info/sites/default/files/inline-images/AHMED%20n.y.%20PVC%20Pipes%2C%20light%20weight%20still%20powerful.jpg",
+      title: "PIPES",
     },
   ];
 
