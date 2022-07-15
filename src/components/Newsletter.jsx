@@ -1,4 +1,4 @@
-import SendIcon from '@mui/icons-material/Send';
+import SendIcon from "@mui/icons-material/Send";
 import styled from "styled-components";
 import { mobile } from "../responsive";
 
@@ -36,6 +36,7 @@ const Input = styled.input`
   border: none;
   flex: 8;
   padding-left: 20px;
+  outline: none;
 `;
 
 const Button = styled.button`
@@ -49,7 +50,7 @@ const Newsletter = () => {
   return (
     <Container>
       <Title>Newsletter</Title>
-      <Desc>Get timely updates from your favorite products.</Desc>
+      <Desc>Get timely updates from Us.</Desc>
       <InputContainer>
         <Input placeholder="Your email" />
         <Button>
