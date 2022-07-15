@@ -10,7 +10,7 @@ const Container =styled.div`
 const Slider = () => {
   return (
     <Container>
-      <Arrow ></Arrow>
+      <Arrow></Arrow>
     </Container>
   )
 }
