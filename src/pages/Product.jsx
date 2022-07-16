@@ -129,7 +129,7 @@ const Product = () => {
           <Desc>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
             venenatis, dolor in finibus malesuada, lectus ipsum porta nunc, at
-            iaculis arcu nisi sed maris. Nulla fermentum vestibulum ex, eget
+            iaculis arcu nisi sed maris. Null fermentum vestibulum ex, eget
             tristique tortor pretium ut. Curabitur elit justo, consequat id
             condimentum ac, volutpat ornare.
           </Desc>
