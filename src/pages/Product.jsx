@@ -128,7 +128,7 @@ const Product = () => {
           <Title>Denim Jumpsuit</Title>
           <Desc>
             Lorem ipum dolor sit amet, consectetur adipiscing elit. Donec
-            venenatis, dolor in finibus malesuada, lectus ipsum porta nunc, at
+            venenatis, dolor in finibus malesuda, lectus ipsum porta nunc, at
             iaculis arcu nisi sed maris. Null fermentum vestibulum ex, eget
             tristique tortor pretium ut. Curabitur elit justo, consequat id
             condimentum ac, volutpat ornare.
