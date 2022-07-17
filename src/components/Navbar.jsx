@@ -86,7 +86,15 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>BIT</Logo>
+          <Logo><Link
+              style={{
+                textDecoration: "none",
+                color: "#000",
+              }}
+              to="/"
+            >
+              BIT
+            </Link></Logo>
         </Center>
         <Right>
           <MenuItem>
