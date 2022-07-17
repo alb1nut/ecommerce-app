@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import styled from "styled-components";
 import { mobile } from "../responsive";
 
@@ -47,7 +48,15 @@ const CategoryItem = ({ item }) => {
       <Image src={item.img} />
       <Info>
         <Title>{item.title}</Title>
-        <Button>ORDER NOW</Button>
+        <Button><Link
+              style={{
+                textDecoration: "none",
+                color: "#000",
+              }}
+              to="/productlist"
+            >
+              ORDER NOW
+            </Link></Button>
       </Info>
     </Container>
   );
