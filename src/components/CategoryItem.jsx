@@ -53,7 +53,7 @@ const CategoryItem = ({ item }) => {
                 textDecoration: "none",
                 color: "#000",
               }}
-              to="/productlist"
+              to="/product"
             >
               ORDER NOW
             </Link></Button>
