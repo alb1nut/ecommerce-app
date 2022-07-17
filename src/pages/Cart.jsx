@@ -215,9 +215,9 @@ const Cart = () => {
               </ProductDetail>
               <PriceDetail>
                 <ProductAmountContainer>
-                  <Add />
+                  <AddIcon />
                   <ProductAmount>1</ProductAmount>
-                  <Remove />
+                  <RemoveIcon />
                 </ProductAmountContainer>
                 <ProductPrice>$ 20</ProductPrice>
               </PriceDetail>
@@ -251,4 +251,3 @@ const Cart = () => {
 };
 
 export default Cart;
-Footer
