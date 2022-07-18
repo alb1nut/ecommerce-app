@@ -87,9 +87,7 @@
         <Left>
           <Logo>BIT.</Logo>
           <Desc>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don’t look even slightly believable.
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id qui eligendi nulla.
           </Desc>
           <SocialContainer>
             <SocialIcon color="3B5999">
