@@ -176,7 +176,7 @@ const Cart = () => {
                 <Image src="https://images.unsplash.com/photo-1569770218135-bea267ed7e84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80" />
                 <Details>
                   <ProductName>
-                    <b>Product:</b> JESSIE THUNDER SHOES
+                    <b>Product:</b> MACBOOK PRO
                   </ProductName>
                   <ProductId>
                     <b>ID:</b> 93813718293
@@ -202,7 +202,7 @@ const Cart = () => {
                 <Image src="https://images.unsplash.com/photo-1603351154351-5e2d0600bb77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80" />
                 <Details>
                   <ProductName>
-                    <b>Product:</b> HAKURA T-SHIRT
+                    <b>Product:</b> AIRPODS
                   </ProductName>
                   <ProductId>
                     <b>ID:</b> 93813718293
