@@ -109,9 +109,9 @@
           <List>
           <ListItem>Home</ListItem>
           <ListItem>Cart</ListItem>
-          <ListItem>Man Fashion</ListItem>
-          <ListItem>Woman Fashion</ListItem>
-          <ListItem>Accessories</ListItem>
+          <ListItem>Phones</ListItem>
+          <ListItem>Airpods</ListItem>
+          <ListItem>Laptops</ListItem>
           <ListItem>My Account</ListItem>
           <ListItem>Order Tracking</ListItem>
           <ListItem>Wishlist</ListItem>
@@ -125,7 +125,7 @@
             <RoomIcon style={{marginRight:"10px"}}/> Accra , Ghana
           </ContactItem>
           <ContactItem>
-            <PhoneIcon style={{marginRight:"10px"}}/> +233 2458 14572
+            <PhoneIcon style={{marginRight:"10px"}}/> +233 203 752879
           </ContactItem>
           <ContactItem>
             <MailOutlineIcon style={{marginRight:"10px"}} /> contact@bit.dev
