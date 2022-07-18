@@ -8,6 +8,11 @@ import { Link } from "react-router-dom";
 
 const Container = styled.div`
   height: 60px;
+  position: sticky;
+  top:0;
+  left:0;
+  right:0;
+  z-index:1;
   ${mobile({ height: "50px" })}
 `;
 
