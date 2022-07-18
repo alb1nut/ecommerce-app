@@ -86,7 +86,8 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo><Link
+          <Logo>
+            <Link
               style={{
                 textDecoration: "none",
                 color: "#000",
@@ -94,7 +95,8 @@ const Navbar = () => {
               to="/"
             >
               BIT
-            </Link></Logo>
+            </Link>
+          </Logo>
         </Center>
         <Right>
           <MenuItem>
@@ -120,18 +122,17 @@ const Navbar = () => {
             </Link>
           </MenuItem>
           <MenuItem>
-          <Link
+            <Link
               style={{
                 textDecoration: "none",
                 color: "#000",
               }}
               to="/cart"
             >
-               <Badge badgeContent={4} color="primary">
-              <ShoppingCartOutlinedIcon />
-            </Badge>
+              <Badge badgeContent={4} color="success">
+                <ShoppingCartOutlinedIcon />
+              </Badge>
             </Link>
-           
           </MenuItem>
         </Right>
       </Wrapper>
