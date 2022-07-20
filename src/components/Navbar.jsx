@@ -79,7 +79,7 @@ const MenuItem = styled.div`
   ${mobile({ fontSize: "12px", marginLeft: "10px" })}
 `;
 
-const Navbar = () => {
+const Navbar = (props) => {
   return (
     <Container>
       <Wrapper>
@@ -112,7 +112,7 @@ const Navbar = () => {
               }}
               to="/register"
             >
-              Register
+              {props.name}
             </Link>
           </MenuItem>
           <MenuItem>

@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div>
       <Announcement />
-      <Navbar />
+      <Navbar name='Create account'/>
       <Slider />
       <Categories />
       <Products/>
