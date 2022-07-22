@@ -1,5 +1,5 @@
 <h1 >BIT - Ecommerce Store</h1>
-<h3>Deals in the Sale of Apple Products</h3>
+<h3 >Sale of Apple Products</h3>
 
 ![ecommerce](https://user-images.githubusercontent.com/86856866/179433857-bf3affd1-9f2a-4c3b-b1bc-55bff4832e4a.png)
 
